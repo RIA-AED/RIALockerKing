@@ -1,0 +1,8 @@
+name: RIALockerKing-Bukkit
+main: com.ghostchu.plugin.rialockerkingbukkit.RIALockerKing_Bukkit
+version: 1.0-SNAPSHOT
+authors:
+  - Ghost_chu
+api-version: 1.13
+depend:
+  - BlockLocker

@@ -1,0 +1,4 @@
+# Bukkit 侧本地缓存时间，秒
+# 不需要调整的过大，Velocity 侧还有一层缓存
+cache-interval: 30
+sign-break: "&a这个箱子锁的所有者被丢出去喂鳕鱼了，因此箱子锁已被自动拆除。"
